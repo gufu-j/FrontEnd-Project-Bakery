@@ -1,0 +1,29 @@
+.header{
+  text-align: center;
+}
+
+.Bakery{
+  font-family: monospace;
+  border: 20px ridge #a34824;
+  text-align: center;
+  padding: 5px 5px;
+  background-color: #fae936; 
+  box-sizing: border-box;
+}
+
+.Breads{
+   box-sizing: content-box;
+  width: 50%; 
+  border: solid #5B6DCD 10px;
+  padding: 5px;
+  display: grid;
+  width: 540px;
+  grid-template-columns: 120px 120px 120px;
+  align-items: start;
+  justify-content: space-between;
+  font-family: monospace;  
+}
+
+
+
+
